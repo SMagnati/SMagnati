@@ -5,7 +5,7 @@
 </center>
 
 
-- 👋 Hi there! I'm Stefano Magnati.
+- 👋 __Hi there! I'm Stefano Magnati.__
 - 👨‍🔬 With a background as a Laboratory Technician at Centro Regionale Anti Doping and a Master in Data Science, I bring a blend of expertise to the intersection of biomedical science and data analytics.
 - 🧠 Currently, I'm pursuing my studies in Biomedical Engineering, with a keen interest in specializing in Signal and Image analysis.
 - 💡 Alongside my academic pursuits, I collaborate with the research lab at San Luigi Hospital, where I dedicate my free time to contributing to innovative projects at the cutting edge of biology.
