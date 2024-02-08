@@ -1,6 +1,6 @@
 <center>
 
-![avatar](https://github.com/SMagnati/SMagnati/assets/132743124/228a24bc-7ee1-46d2-9c94-880ada108a20)
+[![avatar](https://github.com/SMagnati/SMagnati/assets/132743124/228a24bc-7ee1-46d2-9c94-880ada108a20)](https://octodex.github.com/labtocat/)
 
 </center>
 
