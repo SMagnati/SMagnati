@@ -1,4 +1,9 @@
-![avtar](https://github.com/SMagnati/SMagnati/assets/132743124/228a24bc-7ee1-46d2-9c94-880ada108a20)
+<center>
+
+![avatar](https://github.com/SMagnati/SMagnati/assets/132743124/228a24bc-7ee1-46d2-9c94-880ada108a20)
+
+</center>
+
 
 - 👋 Hi there! I'm Stefano Magnati.
 - 👨‍🔬 With a background as a Laboratory Technician at Centro Regionale Anti Doping and a Master in Data Science, I bring a blend of expertise to the intersection of biomedical science and data analytics.
