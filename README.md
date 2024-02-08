@@ -1,3 +1,5 @@
+![avtar](https://github.com/SMagnati/SMagnati/assets/132743124/228a24bc-7ee1-46d2-9c94-880ada108a20)
+
 - 👋 Hi, I’m Stefano Magnati
 - 👀 I’m woring in biomedical field and I love machine learning
 - 🌱 I’m currently sturding as Biomedical Engineering
